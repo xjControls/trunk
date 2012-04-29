@@ -1,0 +1,33 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="926C8813-E6F4-4E12-A9B7-086D9E4C937C/d:Controllers/f:HomeController.cs" caret="195" fromTop="8" />
+      <File id="AAA0FD27-4F68-420F-AF95-C0F0D27D93C6/d:js/f:xjControls.js" caret="133" fromTop="2" />
+      <File id="AAA0FD27-4F68-420F-AF95-C0F0D27D93C6/d:htm/d:sample/f:StatusBar.htm" caret="276" fromTop="5" />
+      <File id="AAA0FD27-4F68-420F-AF95-C0F0D27D93C6/d:htm/d:sample/f:StatusBar.js" caret="120" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AAA0FD27-4F68-420F-AF95-C0F0D27D93C6/d:js/f:xjControls.js" caret="133" fromTop="2" />
+      <File id="AAA0FD27-4F68-420F-AF95-C0F0D27D93C6/d:htm/d:sample/f:StatusBar.htm" caret="276" fromTop="5" />
+      <File id="AAA0FD27-4F68-420F-AF95-C0F0D27D93C6/d:htm/d:sample/f:StatusBar.js" caret="120" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

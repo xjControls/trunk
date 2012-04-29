@@ -1,0 +1,8 @@
+D:\xjControls\xjControls\xjControls.Tests\bin\Debug\xjControls.Tests.dll.config
+D:\xjControls\xjControls\xjControls.Tests\bin\Debug\xjControls.Tests.dll
+D:\xjControls\xjControls\xjControls.Tests\bin\Debug\xjControls.Tests.pdb
+D:\xjControls\xjControls\xjControls.Tests\bin\Debug\xjControls.dll
+D:\xjControls\xjControls\xjControls.Tests\bin\Debug\xjControls.pdb
+D:\xjControls\xjControls\xjControls.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\xjControls\xjControls\xjControls.Tests\obj\Debug\xjControls.Tests.dll
+D:\xjControls\xjControls\xjControls.Tests\obj\Debug\xjControls.Tests.pdb

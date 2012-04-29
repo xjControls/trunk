@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xjControls.MVC", "xjControls.MVC\xjControls.MVC.csproj", "{926C8813-E6F4-4E12-A9B7-086D9E4C937C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xjControls.MVC.Tests", "xjControls.MVC.Tests\xjControls.MVC.Tests.csproj", "{1F8FA08A-E7F3-48AE-B8C4-5F48674ECDF1}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "xjControls", "xjControls", "{AAA0FD27-4F68-420F-AF95-C0F0D27D93C6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/xjControls"
+		Debug.AspNetCompiler.PhysicalPath = "xjControls\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\xjControls\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/xjControls"
+		Release.AspNetCompiler.PhysicalPath = "xjControls\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\xjControls\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "20495"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{926C8813-E6F4-4E12-A9B7-086D9E4C937C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926C8813-E6F4-4E12-A9B7-086D9E4C937C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926C8813-E6F4-4E12-A9B7-086D9E4C937C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926C8813-E6F4-4E12-A9B7-086D9E4C937C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8FA08A-E7F3-48AE-B8C4-5F48674ECDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8FA08A-E7F3-48AE-B8C4-5F48674ECDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8FA08A-E7F3-48AE-B8C4-5F48674ECDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8FA08A-E7F3-48AE-B8C4-5F48674ECDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA0FD27-4F68-420F-AF95-C0F0D27D93C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA0FD27-4F68-420F-AF95-C0F0D27D93C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA0FD27-4F68-420F-AF95-C0F0D27D93C6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA0FD27-4F68-420F-AF95-C0F0D27D93C6}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

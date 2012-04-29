@@ -1,0 +1,7 @@
+D:\xjControls\xjControls\xjControls\bin\xjControls.dll
+D:\xjControls\xjControls\xjControls\bin\xjControls.pdb
+D:\xjControls\xjControls\xjControls\bin\EntityFramework.dll
+D:\xjControls\xjControls\xjControls\bin\EntityFramework.xml
+D:\xjControls\xjControls\xjControls\obj\Debug\ResolveAssemblyReference.cache
+D:\xjControls\xjControls\xjControls\obj\Debug\xjControls.dll
+D:\xjControls\xjControls\xjControls\obj\Debug\xjControls.pdb
